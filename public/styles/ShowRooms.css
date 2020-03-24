@@ -1,0 +1,22 @@
+.room{
+    padding: 10px 4px;
+    color: white;
+}
+
+.room-name{
+    background-color: #cc2758;
+    color: white;
+    padding: 5px 5px;
+
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.room-name:hover{
+    background-color: #68273b;
+    cursor: pointer;
+}
+
+.room-name-active{
+    background-color: #380615;
+}

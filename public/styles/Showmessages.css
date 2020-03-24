@@ -1,0 +1,37 @@
+.chats{
+    padding: 5px 28px;
+    padding-top: 15px;
+    border-radius: 10px;
+    font-size: 20px;
+    color: white;
+    position: relative;
+    top: 5px;
+}
+
+.chat-container{
+    padding: 16px 0px;
+}
+
+.current-user{
+    border-top-right-radius: 0%;
+}
+
+.room-member{
+    border-top-left-radius: 0%;
+}
+
+.senderId{
+    color: #78909c;
+    font-size: 12px;
+    position: relative;
+    top: -22px;
+    left: 0px;
+}
+
+.current-userId{
+    color: #cfd8dc;
+}
+
+.room-memberId{
+    color: #ffccbc;
+}
